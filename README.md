@@ -59,12 +59,9 @@ GPTMini → melhor coerência com atenção
 
 ## Uso
 
-```bash
-> gato
+`> gato`
 
-```bash
-> cachorro
-
+`> cachorro`
 
 ## Conceitos
 
